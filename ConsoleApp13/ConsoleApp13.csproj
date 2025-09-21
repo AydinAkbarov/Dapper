@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Dapper_Hw\.git\ms-persist.xml" />
+    <Content Include="Dapper_Hw\.vs\Dapper_Hw\v17\DocumentLayout.backup.json" />
+    <Content Include="Dapper_Hw\.vs\Dapper_Hw\v17\DocumentLayout.json" />
+    <Content Include="Dapper_Hw\.vs\ProjectSettings.json" />
+    <Content Include="Dapper_Hw\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Dapper_Hw\.git\config" />
+    <None Include="Dapper_Hw\.git\description" />
+    <None Include="Dapper_Hw\.git\HEAD" />
+    <None Include="Dapper_Hw\.git\hooks\applypatch-msg.sample" />
+    <None Include="Dapper_Hw\.git\hooks\commit-msg.sample" />
+    <None Include="Dapper_Hw\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="Dapper_Hw\.git\hooks\post-update.sample" />
+    <None Include="Dapper_Hw\.git\hooks\pre-applypatch.sample" />
+    <None Include="Dapper_Hw\.git\hooks\pre-commit.sample" />
+    <None Include="Dapper_Hw\.git\hooks\pre-merge-commit.sample" />
+    <None Include="Dapper_Hw\.git\hooks\pre-push.sample" />
+    <None Include="Dapper_Hw\.git\hooks\pre-rebase.sample" />
+    <None Include="Dapper_Hw\.git\hooks\pre-receive.sample" />
+    <None Include="Dapper_Hw\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="Dapper_Hw\.git\hooks\push-to-checkout.sample" />
+    <None Include="Dapper_Hw\.git\hooks\sendemail-validate.sample" />
+    <None Include="Dapper_Hw\.git\hooks\update.sample" />
+    <None Include="Dapper_Hw\.git\index" />
+    <None Include="Dapper_Hw\.git\info\exclude" />
+    <None Include="Dapper_Hw\.git\logs\HEAD" />
+    <None Include="Dapper_Hw\.git\logs\refs\heads\main" />
+    <None Include="Dapper_Hw\.git\logs\refs\remotes\origin\HEAD" />
+    <None Include="Dapper_Hw\.git\objects\pack\pack-aa5c4a5e893e717722b0e71db283ab67aa8d1a0e.idx" />
+    <None Include="Dapper_Hw\.git\objects\pack\pack-aa5c4a5e893e717722b0e71db283ab67aa8d1a0e.pack" />
+    <None Include="Dapper_Hw\.git\objects\pack\pack-aa5c4a5e893e717722b0e71db283ab67aa8d1a0e.rev" />
+    <None Include="Dapper_Hw\.git\packed-refs" />
+    <None Include="Dapper_Hw\.git\refs\heads\main" />
+    <None Include="Dapper_Hw\.git\refs\remotes\origin\HEAD" />
+    <None Include="Dapper_Hw\.vs\Dapper_Hw\CopilotIndices\17.14.670.39694\CodeChunks.db" />
+    <None Include="Dapper_Hw\.vs\Dapper_Hw\CopilotIndices\17.14.670.39694\SemanticSymbols.db" />
+    <None Include="Dapper_Hw\.vs\Dapper_Hw\FileContentIndex\6c944e1d-a7b0-457c-960f-eedd826d30af.vsidx" />
+    <None Include="Dapper_Hw\.vs\Dapper_Hw\FileContentIndex\dc2ca0cc-5828-431e-89fd-70a397d88953.vsidx" />
+    <None Include="Dapper_Hw\.vs\slnx.sqlite" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dapper_Hw\.git\objects\info\" />
+    <Folder Include="Dapper_Hw\.git\refs\tags\" />
+    <Folder Include="Dapper_Hw\bin\Release\net8.0\" />
+    <Folder Include="Dapper_Hw\obj\Release\net8.0\refint\" />
+    <Folder Include="Dapper_Hw\obj\Release\net8.0\ref\" />
+  </ItemGroup>
+
+</Project>
