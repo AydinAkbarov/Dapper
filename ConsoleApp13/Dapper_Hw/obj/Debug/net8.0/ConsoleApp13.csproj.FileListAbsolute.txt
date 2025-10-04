@@ -1,0 +1,5 @@
+C:\Users\aydin\Desktop\Dapper_Hw\obj\Debug\net8.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\Dapper_Hw\obj\Debug\net8.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\Dapper_Hw\obj\Debug\net8.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\aydin\Desktop\Dapper_Hw\obj\Debug\net8.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\Dapper_Hw\obj\Debug\net8.0\ConsoleApp13.sourcelink.json
